@@ -25,7 +25,7 @@ This repository showcases two small Unity-based game development projects record
 
 ### 🧩 Puzzle Game Demo
 - A basic maze-style puzzle game.
-- Built using Unity 2D environment.
+- Built using Unity 3D environment.
 - Designed using cube structures and camera tracking.
 
 
@@ -34,7 +34,6 @@ This repository showcases two small Unity-based game development projects record
 ## 🛠️ Tools Used
 - Unity Game Engine
 - Windows 11
-- Screen Recorder (in-built or third-party)
 
 
 ---
