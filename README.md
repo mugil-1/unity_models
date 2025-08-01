@@ -20,7 +20,6 @@ This repository showcases two small Unity-based game development projects record
 - Features realistic lighting and planetary textures.
 - Includes sun, Earth, moon, and a satellite animation.
 
-![Solar Animation Preview](https://drive.google.com/file/d/1jaszy43NUrla9ahpIe34nj53z1T-6MPV/view?usp=drive_link)
 
 ---
 
@@ -29,7 +28,6 @@ This repository showcases two small Unity-based game development projects record
 - Built using Unity 2D environment.
 - Designed using cube structures and camera tracking.
 
-![Puzzle Game Preview](https://drive.google.com/file/d/1kP7uBZsfuKm0LETDZzXjG6zicrvrTXu8/view?usp=drive_link)
 
 ---
 
